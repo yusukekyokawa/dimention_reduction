@@ -1,0 +1,3 @@
+#!/home/kiyo/PycharmProjects/dimention_reduction/venv/bin/python
+from numba.pycc import main
+main()
